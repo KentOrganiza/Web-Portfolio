@@ -2,6 +2,10 @@
     background-color: red;
     color: blue;
     font-size: 50px;
+}
 
-
+.Porfolio-info p{
+    background-color: green;
+    color: yellow;
+    font-size: 30px;
 }
